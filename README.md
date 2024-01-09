@@ -11,10 +11,12 @@ This repository is neatly organized into four key directories, each containing J
 - **Data_structures**: Core Java implementations of essential data structures.
 
 
-  ## Key Highlights
+## Key Highlights
 
 - **Project 1: Spotijy**: Check out this project in the [Spotijy Directory](https://github.com/daatoo/Java-Journey/tree/main/Artemis-Tasks/Spotijy).
 - **Project 2: Streams Implementation**: Explore this project in the [Streams Implementation Directory](https://github.com/daatoo/Java-Journey/tree/main/Data-Structures/Streams).
+- **Project 3: Mechanic**: Check out this project in the [Mechanic Directory](https://github.com/daatoo/Java-Journey/tree/main/Artemis-Tasks/Mechanic).
+
 
 
 ### Collaborative Work
