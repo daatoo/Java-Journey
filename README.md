@@ -25,7 +25,7 @@ While this repository hosts a selection of my individual work, the majority of m
 
 🔗 Check out our collaborative work: [University Projects Repository](https://github.com/rezi-gelenidze/university-projects)
 
-📺 Our YouTube Channel: [Channel Name](https://www.youtube.com/@twiton)
+📺 Our YouTube Channel: [Twiton](https://www.youtube.com/@twiton)
 
 
 
