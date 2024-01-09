@@ -5,10 +5,11 @@
 Welcome to my personal Java repository! Here, you'll find a collection of Java implementations showcasing various algorithms and data structures. These projects range from basic exercises to more complex applications, showcasing my growth and learning journey in Java programming.
 
 ## Repository Structure
-This repository is neatly organized into four key directories, each containing Java code:
+This repository is neatly organized into three key directories, each containing Java code:
 
 - **Artemis_Tasks**: Engaging Java exercises and challenges to test your programming mettle.
 - **Data_structures**: Core Java implementations of essential data structures.
+- **Algorithms**: Implementing algorithms, such as Sorting, Searchnig, Hashing and etc.
 
 
 ## Key Highlights
