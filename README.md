@@ -13,6 +13,7 @@ This repository is neatly organized into four key directories, each containing J
 
 ### Key Highlights
 - #### Project 1: Spotijy
+- #### Project 2: Streams implementation
 
 ### Collaborative Work
 While this repository hosts a selection of my individual work, the majority of my collaborative projects, especially those related to university coursework, are available in a shared repository. My friend and I have also started a YouTube channel for Java tutorials, primarily aimed at helping fellow students.
