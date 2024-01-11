@@ -6,4 +6,6 @@ This repository contains a custom implementation of Java Streams, a key feature 
 
 The repository is organized into several packages:
 
+- `collection`: Contains custom collection classes such as `List`.
+- `function`: Includes functional interfaces like `BiConsumer`, `BiFunction`, `BinaryOperator`, `Consumer`, `Function`, `Predicate`, and `Supplier`.
 
