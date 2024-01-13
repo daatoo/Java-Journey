@@ -17,6 +17,7 @@ This repository is neatly organized into three key directories, each containing 
 - **Project 1: Spotijy**: Check out this project in the [Spotijy Directory](https://github.com/daatoo/Java-Journey/tree/main/Artemis-Tasks/Spotijy).
 - **Project 2: Streams Implementation**: Explore this project in the [Streams Implementation Directory](https://github.com/daatoo/Java-Journey/tree/main/Data-Structures/Streams).
 - **Project 3: Mechanic**: Check out this project in the [Mechanic Directory](https://github.com/daatoo/Java-Journey/tree/main/Artemis-Tasks/Mechanic).
+- **Project 4: Chat with Threads**: Explore this project in the [Chat With Threads Directory](https://github.com/daatoo/Java-Journey/tree/main/Artemis-Tasks/ChatWithMultiThreading)
 
 
 
