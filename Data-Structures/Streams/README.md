@@ -11,3 +11,7 @@ The directory is organized into several packages:
 - `iterator`: Holds iterator-related interfaces like `Iterable` and `Iterator`.
 - `stream`: Features the core `Stream` interface with its various methods for intermediate and terminal operations.
 - `util`: Provides utility classes such as `Optional`.
+
+## Youtube Channel
+Video where I write and explain this code:
+- [Streams API(With Implementation) Part 1](https://www.youtube.com/watch?v=mAzkaatGURc&t=1762s) 
