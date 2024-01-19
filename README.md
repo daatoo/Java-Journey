@@ -10,6 +10,7 @@ This repository is neatly organized into three key directories, each containing 
 - **Artemis_Tasks**: Engaging Java exercises and challenges to test your programming mettle.
 - **Data_structures**: Core Java implementations of essential data structures.
 - **Algorithms**: Implementing algorithms, such as Sorting, Searchnig, Hashing and etc.
+- **Exams**: Exercises which was on Java midterms and finals.
 
 
 ## Key Highlights
