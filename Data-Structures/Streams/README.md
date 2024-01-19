@@ -14,4 +14,5 @@ The directory is organized into several packages:
 
 ## Youtube Channel
 Video where I write and explain this code:
-- [Streams API(With Implementation) Part 1](https://www.youtube.com/watch?v=mAzkaatGURc&t=1762s) 
+- [Streams API(With Implementation) Part 1](https://www.youtube.com/watch?v=mAzkaatGURc&t=1762s)
+- [Streams API(With Implementation) Part 2](https://www.youtube.com/watch?v=f5RolyUZU5c&t=2560s)
