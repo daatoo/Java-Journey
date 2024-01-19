@@ -19,7 +19,8 @@ This repository is neatly organized into three key directories, each containing 
 - **Project 2: Chat with Threads**: Explore this project in the [Chat With Threads Directory](https://github.com/daatoo/Java-Journey/tree/main/Artemis-Tasks/ChatWithMultiThreading)
 - **Project 3: Streams Implementation**: Explore this project in the [Streams Implementation Directory](https://github.com/daatoo/Java-Journey/tree/main/Data-Structures/Streams).
 - **Project 4: Mechanic**: Check out this project in the [Mechanic Directory](https://github.com/daatoo/Java-Journey/tree/main/Artemis-Tasks/Mechanic).
-- **Project 5: Paraller Sorting**: Explore this project int the [Merge sort with Mutlithreading](https://github.com/daatoo/Java-Journey/tree/main/Artemis-Tasks/Paraller-Sorting-Threads).
+- **Project 5: Paraller Sorting**: Explore this project int the [Merge sort with Mutlithreading Directory](https://github.com/daatoo/Java-Journey/tree/main/Artemis-Tasks/Paraller-Sorting-Threads).
+- **Project 5: Spaceuin**: Check out this project in the [Java multithreading for space exploration and wormhole mechanics Directory](https://github.com/daatoo/Java-Journey/tree/main/Artemis-Tasks/Spaceuin).
 
 
 
