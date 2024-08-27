@@ -25,7 +25,7 @@ This repository is neatly organized into three key directories, each containing 
 
 
 ### Collaborative Work
-While this repository hosts a selection of my individual work, the majority of my collaborative projects, especially those related to university coursework, are available in a shared repository. My friend and I have also started a YouTube channel for Java tutorials, primarily aimed at helping fellow students.
+While this repository hosts the majority of my work, a selection of collaborative projects, particularly those related to university coursework, can be found in a shared repository. Additionally, my friend and I have started a YouTube channel for Java tutorials, primarily aimed at helping fellow students.
 
 🔗 Check out our collaborative work: [University Projects Repository](https://github.com/rezi-gelenidze/university-projects)
 
